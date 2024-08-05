@@ -38,7 +38,8 @@ hobbies: ["Gaming", "Listening to music", "Running", "Dodgeball"]
 
 ## Languages
 My main project (ExpendiPal) has mostly been developed in C# and XAML because it's a .NET MAUI app. I also have a little experience in HTML, CSS, SQL and TypeScript. <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jess-excell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jess-excell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
