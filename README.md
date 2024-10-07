@@ -1,7 +1,7 @@
 ### About me
 👋 Hi there! I’m @jess-excell, and I'm a software engineering undergraduate. <br/>
 👀 I’m interested in application development and website development. <br/>
-⚡ In my spare time, I'm working on my dissertation project. It's called ExpendiPal. Check it out!<br />
+⚡ In my spare time, I'm working on my dissertation project.<br />
 📫 You can reach me on LinkedIn <a href="https://linkedin.com/in/jessica-excell/">here</a>.<br />
 
 <div align="center">
@@ -30,14 +30,14 @@ technical_background:
 ]
 
 currently_learning: [".NET MAUI", "Website development"]
-2024_Goals: ["Continue to maintain university grade", "Start to develop my own side projects"]
+2024_Goals: ["Maintain university grade", "Start to develop my own side projects"]
 hobbies: ["Gaming", "Listening to music", "Running", "Dodgeball"]
 ```
 
 ---
 
 ### Languages
-My main project (ExpendiPal) has mostly been developed in C# and XAML because it's a .NET MAUI app. I also have a little experience in HTML, CSS, SQL and TypeScript. <br/><br />
+My main project (dissertation) has mostly been developed in C# and XAML because it's a .NET MAUI app. I also have a little experience in HTML, CSS, SQL and TypeScript. <br/><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jess-excell&hide_border=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
