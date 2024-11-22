@@ -29,7 +29,7 @@ technical_background:
   "Placement - Cybersecurity"
 ]
 
-currently_learning: [".NET MAUI", "Website development"]
+currently_learning: ["Django", "Website development"]
 2024_Goals: ["Maintain university grade", "Start to develop my own side projects"]
 hobbies: ["Gaming", "Listening to music", "Running", "Dodgeball"]
 ```
