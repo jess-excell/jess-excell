@@ -26,7 +26,7 @@ fields_of_interests:
 technical_background:
 [
   "Intern - Engineering and Project Management",
-  "Placement - Cybersecurity"
+  "Work experience placement - Cybersecurity"
 ]
 
 currently_learning: ["Django", "Website development"]
