@@ -37,7 +37,6 @@ hobbies: ["Gaming", "Listening to music", "Running", "Dodgeball"]
 ---
 
 ### Languages
-My main project (dissertation) has mostly been developed in C# and XAML because it's a .NET MAUI app. I also have a little experience in HTML, CSS, SQL and TypeScript. <br/><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jess-excell&hide_border=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
